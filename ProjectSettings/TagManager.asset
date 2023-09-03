@@ -12,9 +12,9 @@ TagManager:
   - Water
   - UI
   - 
-  - 
-  - 
-  - 
+  - Dungeon
+  - Floor
+  - Player
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2483493041
+    locked: 0
+  - name: Dungeon
+    uniqueID: 3615913989
+    locked: 0
+  - name: Player
+    uniqueID: 1869246869
     locked: 0
